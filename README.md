@@ -30,7 +30,7 @@ Telecom companies lose significant revenue due to customer churn. This project a
 | XGBoost | 0.76 | 0.81 |
 
 ## Live Demo
-Add Streamlit Cloud link here
+https://lalithreddy-churn-app.streamlit.app/
 
 ## How to Run
 pip install -r requirements.txt
